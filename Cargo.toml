@@ -5,3 +5,5 @@ authors = ["Skareeg <skareeg@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+nalgebra = "*"
+indextree = "4.3.1"
